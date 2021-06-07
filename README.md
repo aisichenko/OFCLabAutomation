@@ -19,3 +19,7 @@ From June 6, 2021 lab automation hackathon:
 - hopefully it is not virtual!
 - Have some time for those that run each booth to walk around to other booths to see the demos
 - github repo for each year where presenters link their repos in a readme or upload their demo notebooks
+
+### Installing Python
+
+Install python on windows machine: [link](https://github.com/aisichenko/install_python)
