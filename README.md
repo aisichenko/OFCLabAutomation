@@ -14,6 +14,7 @@ From June 6, 2021 lab automation hackathon:
 - [Physics-aware Training, McMahon lab, Cornell](https://github.com/mcmahon-lab/Physics-Aware-Training)
 - [Data logging with Neptune?](https://neptune.ai/)
 - LabExt, ETH Zurich: [link](https://polybox.ethz.ch/index.php/s/hGN9Kde5MZteEBX)
+- https://www.wavefrontshaping.net/
 
 ### Thoughts for next hackathon
 
