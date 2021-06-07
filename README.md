@@ -1,5 +1,5 @@
 # OFCLabAutomation
-Demo for the OFC Lab Automation Hackathon
+Demo for the [OFC Lab Automation Hackathon](https://www.ofcconference.org/en-us/home/program-speakers/special-events/lab-automation-hackathon/)
 
 ### Other interesting resources
 
