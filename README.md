@@ -13,6 +13,7 @@ From June 6, 2021 lab automation hackathon:
 - [s-fifteen](https://github.com/s-fifteen-instruments/pyS15)
 - [Physics-aware Training, McMahon lab, Cornell](https://github.com/mcmahon-lab/Physics-Aware-Training)
 - [Data logging with Neptune?](https://neptune.ai/)
+- LabExt, ETH Zurich: [link](https://polybox.ethz.ch/index.php/s/hGN9Kde5MZteEBX)
 
 ### Thoughts for next hackathon
 
