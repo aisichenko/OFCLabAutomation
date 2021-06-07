@@ -28,4 +28,4 @@ Install python on windows machine: [link](https://github.com/aisichenko/install_
 
 ### My work
 
-My packages (`laserlab` for instrument control, `data_analysis` for photonic-device and laser frequency noise analysis) will move to public open source probably by 2022. This includes code for [red pitay](https://www.redpitaya.com/) control, which I use in my lab for laser frequency stabilization.
+My packages (`laserlab` for instrument control, `data_analysis` for photonic-device and laser frequency noise analysis) will move to public open source probably by 2022. This includes code for [red pitaya](https://www.redpitaya.com/) control, which I use in my lab for laser frequency stabilization.
