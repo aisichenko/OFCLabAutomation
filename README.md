@@ -6,7 +6,6 @@ Presenters for 2021:
 
 ![image](https://user-images.githubusercontent.com/55260620/120969314-df0c3e80-c71e-11eb-83f9-f60d3ac4d1cf.png)
 
-
 ### Other interesting resources
 
 From June 6, 2021 lab automation hackathon:
